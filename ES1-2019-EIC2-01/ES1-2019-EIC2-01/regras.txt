@@ -1,0 +1,2 @@
+Insert rule name, LOC >= 10 OR CYCLO >= 20.0 
+Regra2, ATFD >= 5 OR LAA <= 10.0 

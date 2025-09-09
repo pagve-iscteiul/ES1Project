@@ -1,0 +1,4 @@
+pedro, CYCLO >= 12 
+lol, ATFD >= 56 OR LAA >= 78 
+pedro, ATFD >= 56 
+sfgasfd, CYCLO >= 89 OR LOC <= 90 
