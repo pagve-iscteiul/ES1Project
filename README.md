@@ -3,7 +3,7 @@
 Objetivos:
   - Implementar metologia ágil Scrum.
   - Desenvolvimento de software em Java com o IDE Eclipse.
-  - Criar aplicação capaz de visualizar um ficheiro excel, criar regras envolvidas na deteção de refeitos long method e feature envy, usar regras criadas para comparar com os valores de long method e feature envy e mostrar os indicadores de qualidade de deteção de defeitos ( DCI, DII, ADCI, ADII ) para cada uma das regras respetivas.
+  - Criar aplicação capaz de visualizar um ficheiro excel, criar regras envolvidas na deteção de defeitos long method e feature envy, usar regras criadas para comparar com os valores de long method e feature envy e mostrar os indicadores de qualidade de deteção de defeitos ( DCI, DII, ADCI, ADII ) para cada uma das regras respetivas.
   - Acompanhamento e gestão com recurso à plataforma Trello.
   - Apresentar a documentação Javadoc do projeto.
   - Apresentar testes unitários JUnit relativos ao software desenvolvido.
